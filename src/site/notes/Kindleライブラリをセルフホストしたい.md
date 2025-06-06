@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kindleライブラリをセルフホストしたい/","created":"2025-05-30T10:53:49.239+09:00","updated":"2025-06-06T16:48:32.629+09:00"}
+{"dg-publish":true,"permalink":"/Kindleライブラリをセルフホストしたい/","created":"2025-05-30T10:53:49.239+09:00","updated":"2025-06-06T17:36:48.134+09:00"}
 ---
 
 [[⚒️PROJECTS\|⚒️PROJECTS]]
@@ -14,7 +14,7 @@ CalibreライブラリをNASに置いて運用するのは[公式には非推奨
 
 Windows環境からは`Robocopy`、Mac環境からは`rsync`でデータを転送する。NAS上のデータを壊したくないのでデータは同期しない。
 
-Calibre WebからNAS上のCalibreライブラリにSMBでアクセスするには、cifsのマウントオプションに"nobrl"を追加する必要があるので注意。参考 [Database errors · Issue \#2698 · janeczku/calibre\-web](https://github.com/janeczku/calibre-web/issues/2698#issuecomment-1533893962)
+Calibre WebからNAS上のCalibreライブラリにSMBでアクセスするには、cifsのマウントオプションに"nobrl"を追加する必要があるので注意。参考 [Database errors · Issue #2698 · janeczku/calibre-web](https://github.com/janeczku/calibre-web/issues/2698#issuecomment-1533893962)
 ## Kindle PaperwhiteをJailbreak/KOReaderセットアップ
 素のKindleではEPUBデータが読み込めないのでJailbreakする。[[Kindle Paperwhite\|Kindle Paperwhite]]をMacにつないで、[Kindle Modding Wiki](https://kindlemodding.org/)の内容にそってポチポチやるとKindleがJailbreakできる。その流れで[[KOReader\|KOReader]]をインストールもおこなう。
 ## 電子書籍を読む方法
