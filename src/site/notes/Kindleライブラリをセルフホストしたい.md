@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kindleライブラリをセルフホストしたい/","created":"2025-05-30T10:53:49.239+09:00","updated":"2025-06-11T09:28:52.996+09:00"}
+{"dg-publish":true,"permalink":"/Kindleライブラリをセルフホストしたい/","created":"2025-05-30T10:53:49.239+09:00","updated":"2025-06-11T09:33:48.873+09:00"}
 ---
 
 [[⚒️PROJECTS\|⚒️PROJECTS]]
@@ -37,5 +37,5 @@ JailbreakしたKindle PaperwhiteのKOReaderをメイン、iPhoneの[Cantook by A
 - [readest/readest: Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.](https://github.com/readest/readest)
 - [stumpapp/stump: A free and open source comics, manga and digital book server with OPDS support (WIP)](https://github.com/stumpapp/stump)
 
-## 
+## これも読みたい
 - [OK, Reader — 🦄🌈 Brie Carranza](https://brie.dev/ok-reader/)
